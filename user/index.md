@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Autenticação
-nav_order: 1
+title: Usuário
+nav_order: 2
 has_children: true
 ---
