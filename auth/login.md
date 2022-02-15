@@ -2,13 +2,14 @@
 layout: default
 title: Login
 parent: Autenticação
-nav_order: 2
+nav_order: 1
 ---
 
 # Login
 ## POST /oauth/token
 
 Cria um token de acesso OAuth, o qual será utilizado para realizar as requisições na API do Weleto.
+O token de acesso OAuth expira em duas horas após a geração.
 
 **Estrutura da URL:** https://weleto.com.br/oauth/token
 
