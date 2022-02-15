@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # Obter dados atuais
-## POST /public_api/v1/user
+## GET /public_api/v1/user
 
 Retornar os dados do usuário atual, utilizando o token de acesso como base.
 
